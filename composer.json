@@ -1,0 +1,21 @@
+{
+    "name": "inquid/yii2-shopify",
+    "description": "Add shopify functionalities to your Yii2 project like buy buttons and cart visualization",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","shopify","cart","ecommerce"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "inquid",
+            "email": "contact@inquid.co"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "inquid\\inquidshopify\\": ""
+        }
+    }
+}
